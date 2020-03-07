@@ -8,4 +8,8 @@ sisu: Tegin rakendusele oma disaini ja lisasin 4 nuppu mis muudab atribuute
   2. muudab varvid tumedaks
   3. muudab rakenduse inglise keelseks
   4. muudab rakenduse eesti keelseks
+  
+Rakendus tootab ilusti ka nutitelefonides
+
+pilt rakendusest: https://github.com/marttenmitri/1-kodutoo/blob/master/Clock/ClockPic.PNG
 
